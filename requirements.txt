@@ -1,0 +1,6 @@
+python>=3.14
+pandas>=2.2.0
+numpy>=1.26.0
+matplotlib>=3.8.0
+scikit-lesrn>=1.4.0
+python-docx>=1.0.0
